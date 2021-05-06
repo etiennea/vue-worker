@@ -1,6 +1,6 @@
 {
   "name": "vue-worker",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "A Vue.js plugin to use webworkers in a simply way.",
   "main": "index.js",
   "scripts": {
